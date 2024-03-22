@@ -6,8 +6,6 @@ According to the latest data released on 12.12.2023 by the Czech Statistical Oce
 
 This is how the idea of creating an application, where people could scan a barcode of a product and get an approved instruction on how to utilize it properly, appeared. It has been realized as a first version of the application called RecycleIt.
 
-The first version of this app has been published as a Snack on the Expo Dev. 
-
 You can find a recorded demo of this app here: https://youtu.be/hlwC7tEh-qg.
 
 This application has been created as a final project for the _Mobile Development_ module in my Computer Science degree at UoL. 
